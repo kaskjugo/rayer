@@ -1,0 +1,373 @@
+[
+    {
+        "name": "698029620",
+        "name_display": "蘭音 Reine",
+        "tag": [
+            "bilibili",
+            "public",
+            "reine",
+            "蘭音"
+        ],
+        "route": "Playlists/Bilibili/698029620.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "蘭音 Reine"
+    },
+    {
+        "name": "2650919",
+        "name_display": "凜-阿格里亞斯",
+        "tag": [
+            "bilibili",
+            "public",
+            "凜-阿格里亞斯"
+        ],
+        "route": "Playlists/Bilibili/2650919.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "凜-阿格里亞斯"
+    },
+    {
+        "name": "922573",
+        "name_display": "黑澤諾亞 Noir",
+        "tag": [
+            "bilibili",
+            "noir",
+            "public",
+            "黑澤諾亞"
+        ],
+        "route": "Playlists/Bilibili/922573.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "黑澤諾亞 Noir"
+    },
+    {
+        "name": "43272050",
+        "name_display": "穆小泠",
+        "tag": [
+            "bilibili",
+            "public",
+            "穆小泠"
+        ],
+        "route": "Playlists/Bilibili/43272050.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "穆小泠"
+    },
+    {
+        "name": "690804827",
+        "name_display": "花滿",
+        "tag": [
+            "bilibili",
+            "public",
+            "花滿"
+        ],
+        "route": "Playlists/Bilibili/690804827.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "花滿"
+    },
+    {
+        "name": "282994",
+        "name_display": "泠鳶 yousa",
+        "tag": [
+            "bilibili",
+            "public",
+            "yousa",
+            "泠鳶"
+        ],
+        "route": "Playlists/Bilibili/282994.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "泠鳶 yousa"
+    },
+    {
+        "name": "11253297",
+        "name_display": "多多 poi",
+        "tag": [
+            "bilibili",
+            "poi",
+            "public",
+            "多多"
+        ],
+        "route": "Playlists/Bilibili/11253297.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "多多 poi"
+    },
+    {
+        "name": "14387072",
+        "name_display": "小可學妹",
+        "tag": [
+            "bilibili",
+            "public",
+            "小可學妹"
+        ],
+        "route": "Playlists/Bilibili/14387072.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "小可學妹"
+    },
+    {
+        "name": "7706705",
+        "name_display": "阿梓 Azusa",
+        "tag": [
+            "azusa",
+            "bilibili",
+            "public",
+            "阿梓"
+        ],
+        "route": "Playlists/Bilibili/7706705.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "阿梓 Azusa"
+    },
+    {
+        "name": "140378",
+        "name_display": "夢音茶糯",
+        "tag": [
+            "bilibili",
+            "public",
+            "夢音茶糯"
+        ],
+        "route": "Playlists/Bilibili/140378.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "夢音茶糯"
+    },
+    {
+        "name": "1950658",
+        "name_display": "早稻嘰",
+        "tag": [
+            "bilibili",
+            "public",
+            "早稻嘰"
+        ],
+        "route": "Playlists/Bilibili/1950658.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "早稻嘰"
+    },
+    {
+        "name": "518817",
+        "name_display": "早涼",
+        "tag": [
+            "bilibili",
+            "public",
+            "早涼"
+        ],
+        "route": "Playlists/Bilibili/518817.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "早涼"
+    },
+    {
+        "name": "11073",
+        "name_display": "hanser",
+        "tag": [
+            "bilibili",
+            "hanser",
+            "public"
+        ],
+        "route": "Playlists/Bilibili/11073.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "hanser"
+    },
+    {
+        "name": "684169",
+        "name_display": "茶理理 Chalili",
+        "tag": [
+            "bilibili",
+            "chalili",
+            "public",
+            "茶理理"
+        ],
+        "route": "Playlists/Bilibili/684169.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "茶理理 Chalili"
+    },
+    {
+        "name": "631070414",
+        "name_display": "折原露露",
+        "tag": [
+            "bilibili",
+            "public",
+            "折原露露"
+        ],
+        "route": "Playlists/Bilibili/631070414.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "折原露露"
+    },
+    {
+        "name": "3046429",
+        "name_display": "祖婭納惜",
+        "tag": [
+            "bilibili",
+            "public",
+            "祖婭納惜"
+        ],
+        "route": "Playlists/Bilibili/3046429.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "祖婭納惜"
+    },
+    {
+        "name": "1856528671",
+        "name_display": "陸鰩 LuLu",
+        "tag": [
+            "6166",
+            "bilibili",
+            "lulu",
+            "public",
+            "陸鰩"
+        ],
+        "route": "Playlists/Bilibili/1856528671.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "陸鰩 LuLu"
+    },
+    {
+        "name": "234782",
+        "name_display": "祈 Inory",
+        "tag": [
+            "bilibili",
+            "inory",
+            "public",
+            "祈"
+        ],
+        "route": "Playlists/Bilibili/234782.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "祈 Inory"
+    },
+    {
+        "name": "2677744",
+        "name_display": "atoroeato 音醬",
+        "tag": [
+            "atoroeato",
+            "bilibili",
+            "public",
+            "音醬"
+        ],
+        "route": "Playlists/Bilibili/2677744.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "atoroeato 音醬"
+    },
+    {
+        "name": "5005968",
+        "name_display": "米白 [已畢業]",
+        "tag": [
+            "bilibili",
+            "public",
+            "米白"
+        ],
+        "route": "Playlists/Bilibili/5005968.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "米白"
+    },
+    {
+        "name": "198297",
+        "name_display": "冰糖IO",
+        "tag": [
+            "bilibili",
+            "public",
+            "冰糖IO"
+        ],
+        "route": "Playlists/Bilibili/198297.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "冰糖IO"
+    },
+    {
+        "name": "20473341",
+        "name_display": "周梓琦",
+        "tag": [
+            "bilibili",
+            "public",
+            "周梓琦"
+        ],
+        "route": "Playlists/Bilibili/20473341.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "周梓琦"
+    },
+    {
+        "name": "591402619",
+        "name_display": "撿貓怪",
+        "tag": [
+            "bilibili",
+            "public",
+            "撿貓怪"
+        ],
+        "route": "Playlists/Bilibili/591402619.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "撿貓怪"
+    },
+    {
+        "name": "1482911817",
+        "name_display": "卡特斯 Cactus",
+        "tag": [
+            "cactus",
+            "bilibili",
+            "public",
+            "卡特斯"
+        ],
+        "route": "Playlists/Bilibili/1482911817.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "卡特斯 Cactus"
+    }
+]

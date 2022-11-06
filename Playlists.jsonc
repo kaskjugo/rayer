@@ -1,0 +1,53 @@
+[
+    {
+        "name": "SilviaClione",
+        "name_display": "瑟薇亞 Silvia 的歌單",
+        "tag": [
+            "public",
+            "silvia",
+            "via",
+            "瑟薇亞",
+            "滴魚工作室"
+        ],
+        "route": "Playlists/YouTube/SilviaClione.jsonc",
+        "maintainer": {
+            "name": "丹尼店長",
+            "url": "https://twitter.com/dannytencho44"
+        },
+        "singer": "瑟薇亞 Silvia Clione"
+    },
+    {
+        "name": "NicaWolper",
+        "name_display": "妮卡沃爾 Nica 的歌單",
+        "tag": [
+            "nica",
+            "nica wolper",
+            "public",
+            "妮卡",
+            "妮卡沃爾"
+        ],
+        "route": "Playlists/YouTube/NicaWolper.jsonc",
+        "maintainer": {
+            "name": "丹尼店長",
+            "url": "https://twitter.com/dannytencho44"
+        },
+        "singer": "妮卡沃爾 Nica Wolper"
+    },
+    {
+        "name": "KOE",
+        "name_display": "心咲 KOE 的歌單",
+        "tag": [
+            "koe",
+            "public",
+            "werhaus",
+            "werhaus music",
+            "心咲"
+        ],
+        "route": "Playlists/YouTube/KOE.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "心咲 KOE"
+    }
+]
