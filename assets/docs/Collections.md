@@ -9,6 +9,7 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [瑟薇亞 Silvia Clione](https://www.youtube.com/channel/UCgIdZIYa6abRpcdOpNfbR7g)
 - [妮卡沃爾 Nica Wolper](https://www.youtube.com/channel/UCUOr_gncX_qdhezesVS3sqQ)
 - [心咲 KOE](https://www.youtube.com/channel/UCkTfvQqiCDniJt2XZFEXAbg)
+- [琉律 Ruly](https://www.youtube.com/@Ruly)
 
 ## 二、收錄的 VUp
 

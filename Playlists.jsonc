@@ -49,5 +49,20 @@
             "url": ""
         },
         "singer": "心咲 KOE"
+    },
+    {
+        "name": "Ruly",
+        "name_display": "琉律 Ruly 的會員限定歌單",
+        "tag": [
+            "public",
+            "ruly",
+            "琉律"
+        ],
+        "route": "Playlists/YouTube/Ruly.jsonc",
+        "maintainer": {
+            "name": "丹尼店長",
+            "url": "https://twitter.com/dannytencho44"
+        },
+        "singer": "琉律 Ruly"
     }
 ]
